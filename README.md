@@ -21,7 +21,7 @@ Requires **Python ≥ 3.9**
 
 Install additional dependencies:
 ```bash
-pip install langextract boto3 botocore python-dotenv
+pip install -e .
 ```
 
 ---
