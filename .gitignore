@@ -1,0 +1,13 @@
+# venv & Python
+.venv/
+__pycache__/
+*.pyc
+
+# builds & dist
+dist/
+build/
+*.egg-info/
+
+# local outputs & env
+outputs/
+.env
