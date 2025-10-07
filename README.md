@@ -19,6 +19,12 @@ pip install "git+https://github.com/vaibhavijhawar/langextract-bedrock.git"
 
 Requires **Python ≥ 3.9**
 
+Create a virtual enviornment:
+```bash
+python3.X -m venv .venv
+source .venv/bin/activate
+```
+
 Install additional dependencies:
 ```bash
 pip install -e .
