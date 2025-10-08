@@ -7,14 +7,11 @@ This package adds native support for Anthropic Claude, Mistral, Cohere, Meta Lla
 
 ## 🚀 Installation
 
-### From PyPI
-```bash
-pip install langextract-bedrock
-```
+
 
 ### From GitHub (latest)
 ```bash
-pip install "git+https://github.com/vaibhavijhawar/langextract-bedrock.git"
+pip install "git+https://github.com/vjhawar-sp/langextract-bedrock.git"
 ```
 
 Requires **Python ≥ 3.9**
